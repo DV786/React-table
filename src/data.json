@@ -1,0 +1,94 @@
+{
+    "orders":[
+        {
+            "id": "514525",
+            "customerId": "1451",
+            "product": "testing",
+            "orderDate": "12 May 2000, 12:00 AM",
+            "orderAmount": "120",
+            "paymentMethod": "PayPal",
+            "deliveryStatus": "cancelled"
+        },
+        {
+            "id": "514525",
+            "customerId": "1452",
+            "product": "Galaxy Watch 4",
+            "orderDate": "12 May 2000, 12:00 AM",
+            "orderAmount": "120",
+            "paymentMethod": "PayPal",
+            "deliveryStatus": "return"
+        },
+        {
+            "id": "514525",
+            "customerId": "1453",
+            "product": "testing 2",
+            "orderDate": "12 May 2000, 12:00 AM",
+            "orderAmount": "120",
+            "paymentMethod": "PayPal",
+            "deliveryStatus": "delivered"
+        },
+        {
+            "id": "514525",
+            "customerId": "1452",
+            "product": "Galaxy Watch 4",
+            "orderDate": "12 May 2000, 12:00 AM",
+            "orderAmount": "120",
+            "paymentMethod": "PayPal",
+            "deliveryStatus": "pending"
+        },
+        {
+            "id": "514525",
+            "customerId": "1452",
+            "product": "Galaxy Watch 4",
+            "orderDate": "12 May 2000, 12:00 AM",
+            "orderAmount": "120",
+            "paymentMethod": "PayPal",
+            "deliveryStatus": "inprogress"
+        },
+        {
+            "id": "514525",
+            "customerId": "1452",
+            "product": "Galaxy Watch 4",
+            "orderDate": "12 May 2000, 12:00 AM",
+            "orderAmount": "120",
+            "paymentMethod": "PayPal",
+            "deliveryStatus": "cancelled"
+        },
+        {
+            "id": "514525",
+            "customerId": "1452",
+            "product": "Galaxy Watch 4",
+            "orderDate": "12 May 2000, 12:00 AM",
+            "orderAmount": "120",
+            "paymentMethod": "PayPal",
+            "deliveryStatus": "return"
+        },
+        {
+            "id": "514525",
+            "customerId": "1452",
+            "product": "Galaxy Watch 4",
+            "orderDate": "12 May 2000, 12:00 AM",
+            "orderAmount": "120",
+            "paymentMethod": "PayPal",
+            "deliveryStatus": "delivered"
+        },
+        {
+            "id": "514525",
+            "customerId": "1452",
+            "product": "Galaxy Watch 4",
+            "orderDate": "12 May 2000, 12:00 AM",
+            "orderAmount": "120",
+            "paymentMethod": "PayPal",
+            "deliveryStatus": "pending"
+        },
+        {
+            "id": "514525",
+            "customerId": "1452",
+            "product": "Galaxy Watch 4",
+            "orderDate": "12 May 2000, 12:00 AM",
+            "orderAmount": "120",
+            "paymentMethod": "PayPal",
+            "deliveryStatus": "inprogress"
+        }
+    ]
+}

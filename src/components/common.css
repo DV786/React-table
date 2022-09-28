@@ -1,0 +1,173 @@
+ul {
+  padding: 0 !important;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.breadcrumb {
+  margin: 0 !important;
+}
+
+button {
+  border: transparent;
+  background: transparent;
+}
+
+.container-fluid {
+  padding: 0 !important;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.sidenav {
+  width: 300px;
+  background: #1b1b1b;
+  padding: 0 20px;
+}
+
+.menu {
+  padding-left: 10px;
+}
+
+.content-wrapper {
+  height: 100%;
+  overflow-y: scroll;
+  background: #e4e2db;
+}
+
+.text-color {
+  color: #6e6e6e;
+}
+
+.form-outline {
+  position: relative;
+}
+
+.form-outline span {
+  position: absolute;
+  background: transparent;
+}
+
+.form-outline input {
+  padding-left: 30px;
+}
+
+.searchContent input{
+    width: 200px;
+}
+
+.item,
+.menu-heading {
+  text-align: left;
+}
+
+.bg-color {
+  background: #fff;
+}
+
+.order-content {
+  padding: 20px;
+}
+
+.create,
+.export {
+  margin-right: 10px;
+}
+
+.create .btn {
+  background: #50b852;
+  border: 1px solid #50b852;
+}
+
+.export .btn {
+  background: #57a1c3;
+  border: 1px solid #57a1c3;
+}
+
+.delete .btn {
+  background: #edd3d3;
+  border: 1px solid #edd3d3;
+}
+
+.searchbox {
+  width: 450px;
+}
+
+.user img {
+  margin-right: 15px;
+  height: 30px;
+  width: auto;
+}
+
+.text-size{
+  text-align: left;
+}
+
+.cancel,
+.pending,
+.return,
+.delivered,
+.inprogress{
+  width: 100%;
+  max-width: 110px;
+  margin: 0 auto;
+  text-transform: uppercase;
+  border-radius: 5px;
+  font-size: 13px;
+}
+
+
+.cancel{
+  background: #edd3d3;
+  color: red;
+}
+
+.pending{
+  background: #a7cfef;
+  color: #3131e5;
+}
+
+.return{
+  background: #bacde6;
+  color: #00648b;
+}
+
+.delivered{
+  background: #d8ffd8;
+  color: #317b31;
+}
+
+.inprogress{
+  background: #dadaf8;
+  color: #1313bb;
+}
+
+.nav-link{
+  cursor: pointer;
+}
+
+
+@media only screen and (max-width:979px){
+    .table{
+        max-width: 600px;
+    }
+    .order-table{
+        overflow-x: scroll;
+    }
+}
